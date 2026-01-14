@@ -1,8 +1,7 @@
 {
   "extends": [
     "config:recommended",
-    "github>secustor/backstage-renovate-config:self-hosted.json5"
+    "github>secustor/backstage-renovate-config"
   ],
-  "platform": "github",
   "onboarding": false
 }
